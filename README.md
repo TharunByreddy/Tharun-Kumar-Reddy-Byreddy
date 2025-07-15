@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tharun Kumar Reddy Byreddy
 
 🎓 Master's in Statistical Data Science @ San Francisco State University  
-💼 Data Analyst | Data Engineer | BI Developer | AWS & Six Sigma Certified  
+💼 Senior Data Analyst | Data Engineer | BI Developer | AWS & Six Sigma Certified  
 📍 San Francisco, CA  
 📫 Email: tharunkumarbyreddy@gmail.com | 📞 +1 (628) 363-7039  
 🔗 [LinkedIn](https://www.linkedin.com/in/tharun-kumar-reddy-byreddy-801290215/) | [GitHub](https://github.com/TharunByreddy/Tharun-Kumar-Reddy-Byreddy)
@@ -10,50 +10,64 @@
 
 ## 🚀 About Me
 
-I’m a results-driven Data Analyst with over 3 years of experience delivering scalable analytics, machine learning models, and cloud-based data pipelines across finance, healthcare, and logistics. I specialize in transforming raw, disjointed datasets into actionable insights, enabling fast, data-informed decision-making.
+I'm a seasoned Data Analyst with over **5 years of hands-on experience** delivering cloud-based analytics, machine learning models, and ETL pipelines across finance, healthcare, logistics, and supply chain. I specialize in building robust data workflows, statistical models, and insightful dashboards using **Python, SQL, Power BI, AWS, Azure, and Snowflake**.
 
-My work spans business intelligence, statistical modeling, and ETL development using AWS, Python, and SQL. I’ve contributed to high-impact projects at Morgan Stanley, Stanford School of Medicine, and Accenture.
+I’ve developed enterprise-scale solutions at organizations like **Morgan Stanley, Stanford School of Medicine, Westside Strategy Partners,** and **Accenture**, consistently improving reporting efficiency, compliance readiness, and predictive accuracy.
 
 ---
 
 ## 🧠 Technical Skills
 
-- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL, R, PySpark, Bash  
-- **Analytics & Modeling**: Statistical Analysis, Hypothesis Testing, Regression, Classification, Forecasting, Cox PH, A/B Testing, ARIMA, Prophet  
-- **Data Visualization**: Power BI, Tableau, Looker Studio, AWS QuickSight, Matplotlib, Seaborn, Plotly, Excel  
-- **Cloud & Big Data**: AWS (Glue, Lambda, S3, Redshift), Azure Synapse, GCP BigQuery, Snowflake, Databricks  
-- **ETL & Workflow Automation**: SQL-based ETL, Airflow, Azure Data Factory, dbt, Kafka, REST APIs  
-- **Databases**: PostgreSQL, MySQL, MongoDB, SQL Server, Delta Lake  
-- **Libraries & Frameworks**: Scikit-learn, XGBoost, Statsmodels, NetworkX, Jupyter, OpenPyXL, BeautifulSoup  
+- **Languages & Scripting:** Python (Pandas, NumPy, Scikit-learn), SQL, R, PySpark, Bash, DAX  
+- **ETL & Pipelines:** AWS Glue, Lambda, ADF, Airflow, dbt, REST APIs, Kafka  
+- **Cloud Platforms:** AWS (S3, Redshift, QuickSight, SageMaker), Azure Synapse, GCP BigQuery  
+- **Databases & Warehousing:** Snowflake, PostgreSQL, SQL Server, MySQL, BigQuery, MongoDB  
+- **Visualization Tools:** Power BI (DAX, Power Query), Tableau, AWS QuickSight, Looker Studio, Excel  
+- **Machine Learning & Analytics:** Regression, Classification, Forecasting (ARIMA, Prophet), XGBoost, SVM, Cox PH, A/B Testing, Clustering  
+- **Big Data:** Apache Spark, Spark SQL, Delta Lake  
+- **DevOps & Automation:** Git, GitHub, Docker, CI/CD (GitHub Actions, Azure DevOps), Linux CLI  
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Morgan Stanley — *Data Analyst*  
-📍 Remote, USA | 🗓️ Mar 2024 – Present  
-- Built dynamic Power BI dashboards to monitor global trade and risk metrics, improving liquidity response time across $500M+ portfolios  
-- Automated ETL workflows using AWS Glue, Lambda, and Snowflake to accelerate compliance reporting and improve audit readiness  
-- Processed over 10M+ trade entries using Python and SQL, enabling real-time risk insights for trading and compliance teams  
-- Developed client segmentation models with Scikit-learn to enhance institutional investment strategies  
+### 🏢 Morgan Stanley — *Senior Data Analyst*  
+📍 California, USA | 🗓️ Mar 2024 – Present  
+- Built real-time Power BI dashboards tracking $500M+ in trade flows using parameterized SQL queries.  
+- Automated ETL pipelines using AWS Glue and Lambda, reducing reporting latency by 85%.  
+- Processed 10M+ trade records via Snowflake and Python for cross-asset analytics.  
+- Developed behavioral segmentation models for institutional clients using Scikit-learn.  
+- Created anomaly detection scripts to flag suspicious trade activity and improve compliance.
 
 ---
 
-### 🏥 Stanford University School of Medicine — *Data Science Intern*  
+### 🏥 Stanford University School of Medicine — *Data Analyst Intern*  
 📍 Redwood City, CA | 🗓️ Sep 2023 – Feb 2024  
-- Built Cox PH and Random Forest models on DHS and SRTR transplant datasets to predict outcomes and improve clinical decision support  
-- Conducted rigorous preprocessing including imputation, normalization, and collinearity resolution to prepare analysis-ready data  
-- Visualized transplant flows using NetworkX to uncover recipient-donor allocation issues, aiding ethical decision-making  
-- Worked with statisticians to influence fairer transplant policy via predictive scoring improvements  
+- Built Cox PH and Random Forest models using DHS and SRTR transplant datasets.  
+- Applied advanced data preprocessing including imputation, z-score normalization, and multicollinearity checks.  
+- Visualized transplant flows using NetworkX and Python to uncover allocation inefficiencies.  
+- Integrated Azure Synapse for HIPAA-compliant patient data storage and analysis.  
+- Automated statistical cohort comparisons to support fairer transplant scoring systems.
+
+---
+
+### 📦 Westside Strategy Partners — *Data Analyst*  
+📍 San Francisco, CA | 🗓️ Aug 2022 – Sep 2023  
+- Developed executive dashboards using AWS QuickSight and Tableau to track reverse logistics KPIs, reducing costs by 18%.  
+- Automated Snowflake data ingestion via AWS Glue and Lambda, improving reporting speed by 25%.  
+- Forecasted inventory trends using SageMaker models to support restocking strategies.  
+- Designed parameterized ETL templates for scalable data pipeline deployments.  
+- Analyzed shipment delays using Redshift, improving delivery time by 12%.
 
 ---
 
 ### 🚛 Accenture — *Data Analyst*  
-📍 Hyderabad, India | 🗓️ Jul 2021 – Aug 2022  
-- Designed Tableau dashboards for global supply chain performance monitoring, reducing return processing inefficiencies  
-- Integrated CRM and ERP sources into Azure Synapse via optimized SQL pipelines, improving data freshness and reporting accuracy  
-- Forecasted demand using ARIMA and Prophet in Python, minimizing stockouts and improving fulfillment in retail distribution  
-- Automated monthly analytics using Azure Data Factory and SharePoint, saving analyst hours and boosting delivery consistency  
+📍 Hyderabad, India | 🗓️ Jul 2020 – Aug 2022  
+- Created Tableau dashboards for global returns and supply chain visibility, improving cycle efficiency by 22%.  
+- Automated reporting pipelines with Azure Synapse, cutting delivery time by 60%.  
+- Forecasted product demand using ARIMA and Prophet models in Python.  
+- Built delivery scorecards with Azure Data Factory and SharePoint integration.  
+- Conducted A/B testing on supply chain strategies, enabling data-driven scaling decisions.
 
 ---
 
@@ -63,14 +77,16 @@ My work spans business intelligence, statistical modeling, and ETL development u
 📍 San Francisco, CA | 🗓️ Aug 2022 – May 2024 | 🎓 GPA: 3.77 / 4.00  
 
 **Koneru Lakshmaiah University** — B.Tech in Electronics & Communication Engineering  
-📍 Guntur, AP, India | 🗓️ Jul 2018 – Apr 2022 | 🎓 GPA: 8.95 / 10.00  
+📍 Guntur, India | 🗓️ Jul 2018 – Apr 2022 | 🎓 GPA: 8.95 / 10.00  
 
 ---
 
-## 📄 Publications
+## 📄 Certifications & Publications
 
-📘 *IoT-Based Molecular Markers for Disease Resistance in Rice* — IJAR, 2021  
-[Read Publication](#)
+- ✅ AWS Certified Solutions Architect  
+- ✅ Six Sigma Yellow Belt (Process Optimization & Data Analytics)  
+- 📘 *IoT-Based Molecular Markers for Disease Resistance in Rice* — IJAR, Nov 2021  
+  [Read Publication](https://www.journalijar.com/article/39112/iot-based-molecular-markers-for-disease-resistance-studies-in-rice---strategy-and-challenges/)
 
 ---
 
@@ -78,3 +94,5 @@ My work spans business intelligence, statistical modeling, and ETL development u
 
 - ✉️ **Email**: tharunkumarbyreddy@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/tharun-kumar-reddy-byreddy-801290215](https://www.linkedin.com/in/tharun-kumar-reddy-byreddy-801290215)  
+- 🧠 **GitHub**: [github.com/TharunByreddy/Tharun-Kumar-Reddy-Byreddy](https://github.com/TharunByreddy/Tharun-Kumar-Reddy-Byreddy)
+
