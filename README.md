@@ -15,8 +15,26 @@ This repository showcases applied **Data Analytics, Data Science, and Machine Le
 
 ---
 
+## 🛒 CVS Health — Fraud & Risk Analytics  
+**Role:** Analytics Engineer (May 2024 – Present)
+
+### Overview
+Worked on high-volume retail and digital datasets to support **fraud detection, risk monitoring, and data-driven decision-making** across business and operations teams.
+
+### Key Contributions
+- Analyzed **150M+ daily clickstream and event-level records** using SQL and Python
+- Built anomaly detection and outlier analysis workflows to identify suspicious behavior and KPI deviations
+- Designed **executive-facing Power BI dashboards** to monitor fraud signals, conversion health, and operational risk
+- Developed data quality, validation, and governance frameworks ensuring auditability and reporting trust
+- Partnered with Product, Data Science, and Engineering teams to deliver scalable analytical solutions
+
+### Tech Stack
+`SQL` `Python` `Power BI` `DAX` `Snowflake` `BigQuery` `Databricks`
+
+---
+
 ## 🏥 Stanford University — Healthcare Survival Modeling  
-**Role:** Research Data Scientist (Sep 2023 – Dec 2023)
+**Role:** Research Data Scientist (Aug 2023 – Jan 2024)
 
 ### Overview
 Developed predictive models to analyze **one-year post-transplant outcomes** using large-scale heart transplant datasets from the Donor Heart Study (DHS) and the Scientific Registry of Transplant Recipients (SRTR).
@@ -33,23 +51,7 @@ Developed predictive models to analyze **one-year post-transplant outcomes** usi
 
 ---
 
-## 🛒 CVS Health — Fraud & Risk Analytics  
-**Role:** Analytics Engineer
 
-### Overview
-Worked on high-volume retail and digital datasets to support **fraud detection, risk monitoring, and data-driven decision-making** across business and operations teams.
-
-### Key Contributions
-- Analyzed **150M+ daily clickstream and event-level records** using SQL and Python
-- Built anomaly detection and outlier analysis workflows to identify suspicious behavior and KPI deviations
-- Designed **executive-facing Power BI dashboards** to monitor fraud signals, conversion health, and operational risk
-- Developed data quality, validation, and governance frameworks ensuring auditability and reporting trust
-- Partnered with Product, Data Science, and Engineering teams to deliver scalable analytical solutions
-
-### Tech Stack
-`SQL` `Python` `Power BI` `DAX` `Snowflake` `BigQuery` `Databricks`
-
----
 
 ## 📈 Additional Projects
 
