@@ -1,98 +1,83 @@
-# 👋 Hi, I'm Tharun Kumar Reddy Byreddy
+# 📊 Data Analytics & Machine Learning Portfolio
+**Tharun Kumar Reddy Byreddy**
 
-🎓 Master's in Statistical Data Science @ San Francisco State University  
-💼 Senior Data Analyst | Data Engineer | BI Developer | AWS & Six Sigma Certified  
-📍 San Francisco, CA  
-📫 Email: tharunkumarbyreddy@gmail.com | 📞 +1 (628) 363-7039  
-🔗 [LinkedIn](https://www.linkedin.com/in/tharun-kumar-reddy-byreddy-801290215/) | [GitHub](https://github.com/TharunByreddy/Tharun-Kumar-Reddy-Byreddy)
+This repository showcases applied **Data Analytics, Data Science, and Machine Learning** projects built on real-world datasets. The work focuses on **statistical rigor, scalable analytics, and business impact**, with experience spanning healthcare research, retail analytics, fraud/risk detection, and large-scale event data.
 
 ---
 
-## 🚀 About Me
-
-I'm a seasoned Data Analyst with over **5 years of hands-on experience** delivering cloud-based analytics, machine learning models, and ETL pipelines across finance, healthcare, logistics, and supply chain. I specialize in building robust data workflows, statistical models, and insightful dashboards using **Python, SQL, Power BI, AWS, Azure, and Snowflake**.
-
-I’ve developed enterprise-scale solutions at organizations like **Morgan Stanley, Stanford School of Medicine, Westside Strategy Partners,** and **Accenture**, consistently improving reporting efficiency, compliance readiness, and predictive accuracy.
-
----
-
-## 🧠 Technical Skills
-
-- **Languages & Scripting:** Python (Pandas, NumPy, Scikit-learn), SQL, R, PySpark, Bash, DAX  
-- **ETL & Pipelines:** AWS Glue, Lambda, ADF, Airflow, dbt, REST APIs, Kafka  
-- **Cloud Platforms:** AWS (S3, Redshift, QuickSight, SageMaker), Azure Synapse, GCP BigQuery  
-- **Databases & Warehousing:** Snowflake, PostgreSQL, SQL Server, MySQL, BigQuery, MongoDB  
-- **Visualization Tools:** Power BI (DAX, Power Query), Tableau, AWS QuickSight, Looker Studio, Excel  
-- **Machine Learning & Analytics:** Regression, Classification, Forecasting (ARIMA, Prophet), XGBoost, SVM, Cox PH, A/B Testing, Clustering  
-- **Big Data:** Apache Spark, Spark SQL, Delta Lake  
-- **DevOps & Automation:** Git, GitHub, Docker, CI/CD (GitHub Actions, Azure DevOps), Linux CLI  
+## 🔍 Focus Areas
+- Exploratory Data Analysis (EDA) & Feature Engineering  
+- Statistical Modeling & Hypothesis Testing  
+- Machine Learning (Classification, Regression, Survival Analysis)  
+- Fraud, Risk, and Anomaly Detection  
+- Data Validation, Quality Assurance, and KPI Governance  
+- Executive Dashboards & Data Storytelling  
 
 ---
 
-## 💼 Professional Experience
+## 🏥 Stanford University — Healthcare Survival Modeling  
+**Role:** Research Data Scientist (Sep 2023 – Dec 2023)
 
-### 🏢 Morgan Stanley — *Senior Data Analyst*  
-📍 California, USA | 🗓️ Mar 2024 – Present  
-- Built real-time Power BI dashboards tracking $500M+ in trade flows using parameterized SQL queries.  
-- Automated ETL pipelines using AWS Glue and Lambda, reducing reporting latency by 85%.  
-- Processed 10M+ trade records via Snowflake and Python for cross-asset analytics.  
-- Developed behavioral segmentation models for institutional clients using Scikit-learn.  
-- Created anomaly detection scripts to flag suspicious trade activity and improve compliance.
+### Overview
+Developed predictive models to analyze **one-year post-transplant outcomes** using large-scale heart transplant datasets from the Donor Heart Study (DHS) and the Scientific Registry of Transplant Recipients (SRTR).
 
----
+### Key Contributions
+- Built survival and classification models using **Cox Proportional Hazards, Logistic Regression, Random Forest, and SVM**
+- Performed advanced **feature engineering** on high-dimensional clinical and demographic variables
+- Applied **survival analysis and statistical validation** to assess mortality, graft failure, and re-transplantation risk
+- Conducted model evaluation and explainability analysis to translate ML outputs into clinically meaningful insights
+- Collaborated with senior biostatisticians and presented findings to multidisciplinary research teams
 
-### 🏥 Stanford University School of Medicine — *Data Analyst Intern*  
-📍 Redwood City, CA | 🗓️ Sep 2023 – Feb 2024  
-- Built Cox PH and Random Forest models using DHS and SRTR transplant datasets.  
-- Applied advanced data preprocessing including imputation, z-score normalization, and multicollinearity checks.  
-- Visualized transplant flows using NetworkX and Python to uncover allocation inefficiencies.  
-- Integrated Azure Synapse for HIPAA-compliant patient data storage and analysis.  
-- Automated statistical cohort comparisons to support fairer transplant scoring systems.
+### Tech Stack
+`Python` `SQL` `pandas` `NumPy` `scikit-learn` `Survival Analysis` `Statistical Modeling`
 
 ---
 
-### 📦 Westside Strategy Partners — *Data Analyst*  
-📍 San Francisco, CA | 🗓️ Aug 2022 – Sep 2023  
-- Developed executive dashboards using AWS QuickSight and Tableau to track reverse logistics KPIs, reducing costs by 18%.  
-- Automated Snowflake data ingestion via AWS Glue and Lambda, improving reporting speed by 25%.  
-- Forecasted inventory trends using SageMaker models to support restocking strategies.  
-- Designed parameterized ETL templates for scalable data pipeline deployments.  
-- Analyzed shipment delays using Redshift, improving delivery time by 12%.
+## 🛒 CVS Health — Fraud & Risk Analytics  
+**Role:** Analytics Engineer
+
+### Overview
+Worked on high-volume retail and digital datasets to support **fraud detection, risk monitoring, and data-driven decision-making** across business and operations teams.
+
+### Key Contributions
+- Analyzed **150M+ daily clickstream and event-level records** using SQL and Python
+- Built anomaly detection and outlier analysis workflows to identify suspicious behavior and KPI deviations
+- Designed **executive-facing Power BI dashboards** to monitor fraud signals, conversion health, and operational risk
+- Developed data quality, validation, and governance frameworks ensuring auditability and reporting trust
+- Partnered with Product, Data Science, and Engineering teams to deliver scalable analytical solutions
+
+### Tech Stack
+`SQL` `Python` `Power BI` `DAX` `Snowflake` `BigQuery` `Databricks`
 
 ---
 
-### 🚛 Accenture — *Data Analyst*  
-📍 Hyderabad, India | 🗓️ Jul 2020 – Aug 2022  
-- Created Tableau dashboards for global returns and supply chain visibility, improving cycle efficiency by 22%.  
-- Automated reporting pipelines with Azure Synapse, cutting delivery time by 60%.  
-- Forecasted product demand using ARIMA and Prophet models in Python.  
-- Built delivery scorecards with Azure Data Factory and SharePoint integration.  
-- Conducted A/B testing on supply chain strategies, enabling data-driven scaling decisions.
+## 📈 Additional Projects
+
+### Fraud & Anomaly Detection Analytics
+- Designed SQL- and Python-based workflows to detect abnormal patterns in high-volume transactional data  
+- Supported risk monitoring and revenue integrity through statistical analysis and KPI tracking  
+
+### Retail & Marketing Performance Analytics
+- Built KPI-driven dashboards integrating data from multiple sources  
+- Enabled performance monitoring, trend analysis, and executive reporting  
 
 ---
 
-## 🎓 Education
-
-**San Francisco State University** — M.S. in Statistical Data Science  
-📍 San Francisco, CA | 🗓️ Aug 2022 – May 2024 | 🎓 GPA: 3.77 / 4.00  
-
-**Koneru Lakshmaiah University** — B.Tech in Electronics & Communication Engineering  
-📍 Guntur, India | 🗓️ Jul 2018 – Apr 2022 | 🎓 GPA: 8.95 / 10.00  
-
----
-
-## 📄 Certifications & Publications
-
-- ✅ AWS Certified Solutions Architect  
-- ✅ Six Sigma Yellow Belt (Process Optimization & Data Analytics)  
-- 📘 *IoT-Based Molecular Markers for Disease Resistance in Rice* — IJAR, Nov 2021  
-  [Read Publication](https://www.journalijar.com/article/39112/iot-based-molecular-markers-for-disease-resistance-studies-in-rice---strategy-and-challenges/)
+## 🧰 Skills & Technologies
+- **Data Analytics:** EDA, Statistical Analysis, Hypothesis Testing, KPI Monitoring  
+- **Machine Learning:** Classification, Regression, Survival Analysis, Feature Engineering  
+- **Programming:** Python, SQL, R  
+- **Visualization:** Power BI, Tableau, Executive Dashboards  
+- **Data Platforms:** Snowflake, BigQuery, Databricks, Cloud Data Warehouses  
 
 ---
 
-## 🔗 Connect with Me
+## 📌 Notes
+- Projects emphasize **real-world applicability, data integrity, and interpretability**
+- Datasets used are public, anonymized, or academic research datasets
+- Repository is continuously updated with new projects and improvements
 
-- ✉️ **Email**: tharunkumarbyreddy@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/tharun-kumar-reddy-byreddy-801290215](https://www.linkedin.com/in/tharun-kumar-reddy-byreddy-801290215)  
-- 🧠 **GitHub**: [github.com/TharunByreddy/Tharun-Kumar-Reddy-Byreddy](https://github.com/TharunByreddy/Tharun-Kumar-Reddy-Byreddy)
+---
 
+## 📫 Contact
+- **LinkedIn:** https://www.linkedin.com/in/tharun-kumar-reddy-byeddy-801290215/
