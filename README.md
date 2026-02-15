@@ -15,8 +15,8 @@ This repository showcases applied **Data Analytics, Data Science, and Machine Le
 
 ---
 
-## 🛒 CVS Health — Fraud & Risk Analytics  
-**Role:** Analytics Engineer (May 2024 – Present)
+## 🛒 AT&T  
+**Role:** Data Analytics Engineer (May 2024 – Present)
 
 ### Overview
 Worked on high-volume retail and digital datasets to support **fraud detection, risk monitoring, and data-driven decision-making** across business and operations teams.
