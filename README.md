@@ -1,85 +1,100 @@
-# 📊 Data Analytics & Machine Learning Portfolio
+# 📊 Data Science & Scalable Analytics Portfolio  
 **Tharun Kumar Reddy Byreddy**
 
-This repository showcases applied **Data Analytics, Data Science, and Machine Learning** projects built on real-world datasets. The work focuses on **statistical rigor, scalable analytics, and business impact**, with experience spanning healthcare research, retail analytics, fraud/risk detection, and large-scale event data.
+This repository showcases applied **Data Science, Analytics Engineering, and Machine Learning** projects built on real-world datasets across healthcare and retail domains. My work emphasizes **scalable data pipelines, statistical rigor, production-grade analytics, and measurable business impact**.
 
 ---
 
-## 🔍 Focus Areas
-- Exploratory Data Analysis (EDA) & Feature Engineering  
-- Statistical Modeling & Hypothesis Testing  
-- Machine Learning (Classification, Regression, Survival Analysis)  
-- Fraud, Risk, and Anomaly Detection  
-- Data Validation, Quality Assurance, and KPI Governance  
-- Executive Dashboards & Data Storytelling  
+## 🔍 Core Focus Areas
+
+- Scalable Analytics on High-Volume Event Data (100M+ records)
+- Feature Engineering & ML-Ready Dataset Development
+- Statistical Modeling, Survival Analysis & A/B Experimentation
+- Fraud Detection & Anomaly Detection Systems
+- Data Quality, Validation & KPI Governance Frameworks
+- Cloud-Based ELT Pipelines & Reproducible Workflows
+- Model Evaluation, Explainability & Business Translation
 
 ---
 
-## 🛒 AT&T  
-**Role:** Data Analytics Engineer (May 2024 – Present)
+## 🛒 AT&T — Retail & Digital Analytics at Scale  
+**Role:** Data Scientist (May 2024 – Present)
 
-### Overview
-Worked on high-volume retail and digital datasets to support **fraud detection, risk monitoring, and data-driven decision-making** across business and operations teams.
+### Overview  
+Working on high-volume retail and digital datasets (150M+ events/day) to support fraud prevention, revenue optimization, and KPI governance across cross-functional business teams.
 
-### Key Contributions
-- Analyzed **150M+ daily clickstream and event-level records** using SQL and Python
-- Built anomaly detection and outlier analysis workflows to identify suspicious behavior and KPI deviations
-- Designed **executive-facing Power BI dashboards** to monitor fraud signals, conversion health, and operational risk
-- Developed data quality, validation, and governance frameworks ensuring auditability and reporting trust
-- Partnered with Product, Data Science, and Engineering teams to deliver scalable analytical solutions
+### Key Contributions  
+- Led advanced analytics and predictive modeling on large-scale clickstream and transactional datasets  
+- Built anomaly detection and classification models to identify fraudulent behavior and abnormal KPI deviations  
+- Designed experimentation frameworks (A/B testing, statistical validation) to quantify business impact  
+- Developed ML-ready datasets and feature engineering pipelines for downstream modeling workflows  
+- Built executive-facing Power BI dashboards for fraud signals, performance monitoring, and decision support  
+- Established data validation, monitoring, and governance standards to ensure data integrity and reporting reliability  
 
-### Tech Stack
-`SQL` `Python` `Power BI` `DAX` `Snowflake` `BigQuery` `Databricks`
+### Tech Stack  
+`SQL` `Python` `Power BI` `DAX` `BigQuery` `Snowflake` `Databricks` `Airflow`
 
 ---
 
-## 🏥 Stanford University — Healthcare Survival Modeling  
+## 🏥 Stanford University — Predictive Survival Modeling  
 **Role:** Research Data Scientist (Aug 2023 – Jan 2024)
 
-### Overview
-Developed predictive models to analyze **one-year post-transplant outcomes** using large-scale heart transplant datasets from the Donor Heart Study (DHS) and the Scientific Registry of Transplant Recipients (SRTR).
+### Overview  
+Developed predictive survival and risk models on large-scale heart transplant datasets (DHS/SRTR) to support one-year outcome analysis and clinical decision-making.
 
-### Key Contributions
-- Built survival and classification models using **Cox Proportional Hazards, Logistic Regression, Random Forest, and SVM**
-- Performed advanced **feature engineering** on high-dimensional clinical and demographic variables
-- Applied **survival analysis and statistical validation** to assess mortality, graft failure, and re-transplantation risk
-- Conducted model evaluation and explainability analysis to translate ML outputs into clinically meaningful insights
-- Collaborated with senior biostatisticians and presented findings to multidisciplinary research teams
+### Key Contributions  
+- Designed and deployed survival and classification models using Cox PH, Logistic Regression, Random Forest, and SVM  
+- Architected GCP-based data pipelines (Dataflow → BigQuery) for scalable preprocessing and cohort construction  
+- Performed advanced feature engineering and cross-model validation on high-dimensional clinical variables  
+- Conducted model diagnostics and explainability analysis (hazard ratios, feature importance)  
+- Presented statistically rigorous, clinically actionable insights to multidisciplinary research teams  
 
-### Tech Stack
-`Python` `SQL` `pandas` `NumPy` `scikit-learn` `Survival Analysis` `Statistical Modeling`
-
----
-
-
-
-## 📈 Additional Projects
-
-### Fraud & Anomaly Detection Analytics
-- Designed SQL- and Python-based workflows to detect abnormal patterns in high-volume transactional data  
-- Supported risk monitoring and revenue integrity through statistical analysis and KPI tracking  
-
-### Retail & Marketing Performance Analytics
-- Built KPI-driven dashboards integrating data from multiple sources  
-- Enabled performance monitoring, trend analysis, and executive reporting  
+### Tech Stack  
+`Python` `SQL` `BigQuery` `Dataflow` `scikit-learn` `Survival Analysis` `Statistical Modeling`
 
 ---
 
-## 🧰 Skills & Technologies
-- **Data Analytics:** EDA, Statistical Analysis, Hypothesis Testing, KPI Monitoring  
-- **Machine Learning:** Classification, Regression, Survival Analysis, Feature Engineering  
-- **Programming:** Python, SQL, R  
-- **Visualization:** Power BI, Tableau, Executive Dashboards  
-- **Data Platforms:** Snowflake, BigQuery, Databricks, Cloud Data Warehouses  
+## 📈 Applied Analytics Projects
+
+### 🔎 Fraud & Anomaly Detection
+- Developed statistical and ML-based workflows to detect abnormal patterns in high-volume transactional data  
+- Built KPI-driven monitoring frameworks to improve detection accuracy and reduce operational risk  
+
+### 📊 Retail & Performance Analytics
+- Built executive dashboards integrating multiple data sources  
+- Designed scalable analytical datasets for segmentation, experimentation, and business optimization  
 
 ---
 
-## 📌 Notes
-- Projects emphasize **real-world applicability, data integrity, and interpretability**
-- Datasets used are public, anonymized, or academic research datasets
-- Repository is continuously updated with new projects and improvements
+## 🧰 Technical Skillset
+
+### Data Science & Statistics  
+EDA • Statistical Modeling • Hypothesis Testing • A/B Testing • Survival Analysis • Cross-Validation • Model Evaluation Metrics  
+
+### Machine Learning  
+Classification • Regression • Feature Engineering • Anomaly Detection • Risk Modeling  
+
+### Data Engineering  
+ELT Pipelines • dbt • Dimensional Modeling • Star Schema • Data Quality Frameworks • Data Lineage  
+
+### Cloud & Platforms  
+Google Cloud Platform (BigQuery, Dataflow) • Snowflake • Databricks • Data Lakes • Parquet  
+
+### Tools  
+Python • SQL • R • Power BI • Tableau • Looker • Git  
 
 ---
 
-## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/tharun-kumar-reddy-byeddy-801290215/
+## 📌 Repository Principles
+
+- Focus on production-scale thinking, not toy notebooks  
+- Emphasis on clean data, reproducibility, and interpretability  
+- Projects reflect real-world analytical workflows and measurable outcomes  
+- Continuously evolving with new modeling experiments and pipeline improvements  
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/tharun-kumar-reddy-byeddy-801290215/  
+- Open to opportunities in **Data Science, Analytics Engineering, and Applied Machine Learning**
